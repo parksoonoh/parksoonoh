@@ -1,4 +1,6 @@
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pso5594)](https://solved.ac/pso5594)
+<div align="center">
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pso5594)](https://solved.ac/pso5594)
 
   | Category | Technology |
   |----------|------------|
@@ -6,6 +8,8 @@
   | Server | ![Spring]![Spring-boot] |
   | Database | ![Oracle] |
   | Collaborative Software | ![Git]![GitHub]![Notion] |
+</div>
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/noFlowWater/signage_solution.svg?style=for-the-badge
 [contributors-url]: https://github.com/noFlowWater/signage_solution/graphs/contributors
