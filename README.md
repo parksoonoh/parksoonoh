@@ -1,9 +1,9 @@
 | Category | Technology |
 |----------|------------|
-| IoT Device | ![Python]![Java] |
+| Language | ![Python]![Java] |
 | Server | ![Spring]![Spring-boot] |
 | Database | ![Oracle] |
-| Collaborative Software | ![Git]![GitHub]![Notion] | 
+| Collaborative Software | ![Git]![GitHub]![Notion] |
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pso5594)](https://solved.ac/pso5594)
 
@@ -26,4 +26,3 @@
 [Notion]: https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white
 [GitHub]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white
 [Git]: https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white
-
